@@ -10,17 +10,9 @@ Now, it's time to take what you've learned about Python Pandas and apply it to n
 
 ### Before You Begin
 
-1. Create a new repository for this project called `pandas-challenge`. **Do not add this homework to an existing repository**.
+1. Create a new repository, clone to computer, and push changes to GitHub. 
 
-2. Clone the new repository to your computer.
-
-3. Inside your local git repository, create a directory for the Pandas Challenge you choose. Use folder names corresponding to the challenges: **HeroesOfPymoli** or  **PyCitySchools**.
-
-4. Add your Jupyter notebook to this folder. This will be the main script to run for analysis.
-
-5. Push the above changes to GitHub or GitLab.
-
-## Option 1: Heroes of Pymoli
+## Heroes of Pymoli
 
 ![Fantasy](Images/Fantasy.png)
 
