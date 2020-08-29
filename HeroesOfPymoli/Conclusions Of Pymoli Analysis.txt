@@ -1,0 +1,10 @@
+#Conclusions of Pymoli Analysis
+
+1. 
+The gender data shows that there are more males playing and purchasing on Pymoli than females.
+
+2. 
+The age data reveals that a majority of Pymoli's players are between the ages of 20-24. 
+
+3. 
+The item (Final Critic) is the most profitable as well as the most popular item. 
